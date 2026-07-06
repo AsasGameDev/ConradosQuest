@@ -1,5 +1,5 @@
 # **CONRADO'S QUEST**
-[`TDD`](Documents/TDD) | [`GDD`](Index) | [`Complete GDD`](Documents/GDD)
+[`TDD`](TDD) | [`GDD`](https://asasgamedev.github.io/ConradosQuest/) | [`Complete GDD`](GDD)
 
 # **Techincal Design Document**
 
