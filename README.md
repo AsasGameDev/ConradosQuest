@@ -9,7 +9,11 @@ Conrado's quest é um jogo de rpg e aventura ambientado em uma torre mágica e m
 
 veja o site publicado [Aqui!](https://asasgamedev.github.io/ConradosQuest/)
 
-### **Veja nossas redes:***
-[Linkedin](linkedin.com/in/thadeu-moscatelli-2559061b0/)
-
-[Whatsapp](wa.me/5515997329328)
+### **Veja nossas redes:**
+<a href="https://www.linkedin.com/in/thadeu-moscatelli-2559061b0/" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="24" height="24">
+</a>
+&nbsp;
+<a href="https://wa.me/5515997329328" target="_blank">
+  <img src="https://api.iconify.design/logos/whatsapp-icon.svg" alt="WhatsApp" width="20" height="20">
+</a>
