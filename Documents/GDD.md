@@ -1,5 +1,5 @@
 # **CONRADO'S QUEST**
-[`TDD`](/Documents/TDD) | [`GDD`](Index) | [`Complete GDD`](/Documents/GDD)
+[`TDD`](Documents/TDD) | [`GDD`](Index) | [`Complete GDD`](Documents/GDD)
 
 # **Game Design Document**
 # **História:**
@@ -78,11 +78,32 @@ Cada andar da torre tem seus próprios ecossistemas,com monstros e salas, e é h
 
 # **Monstros:**
 
+ 1. ## **Papeis:**
+ ### Tanque:
+
+ ### Suporte:
+
+ ### Atacante:
+
 1. ## **Comuns:**
+    ### 001 - Nome 
+  - **`Dificuldade`**:  
+  - **`Papel`**:
+  - **`Descrição`**:
+
 
 1. ## **SubChefes:**
+### 001 - Nome 
+  - **`Dificuldade`**:  
+  - **`Papel`**:
+  - **`Descrição`**:
+
 
 1. ## **Chefes:**
+### 001 - Nome 
+  - **`Dificuldade`**:  
+  - **`Papel`**:
+  - **`Descrição`**:
 
 
 

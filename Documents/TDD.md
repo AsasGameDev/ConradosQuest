@@ -1,5 +1,5 @@
 # **CONRADO'S QUEST**
-[`TDD`](/Documents/TDD) | [`GDD`](Index) | [`Complete GDD`](/Documents/GDD)
+[`TDD`](Documents/TDD) | [`GDD`](Index) | [`Complete GDD`](Documents/GDD)
 
 # **Techincal Design Document**
 
