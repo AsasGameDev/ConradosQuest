@@ -3,22 +3,22 @@
 
 # **Techincal Design Document**
 
-1. #  **Visão Geral do Jogo**
+#  **Visão Geral do Jogo**
 
-* **Engine:** Unity 6(6000.3.7f1)  
-* **Render:** URP  
-* **Plataforma:** PC, Web  
-* **Design Patterns:** Observer(desacoplagem), State Machines(IAs, movimentação), Factory(Criação dos ambientes.).  
-* **Tempo de projeto:** 3 Meses.  
-* **Sistemas:** Movimentação, Combate, IA inimigos, Diálogo,Inventário,Criação de Mapas, Criação de texturas, gerenciamento de cenas, save serializado, UI.
+* **`Engine`:** Unity 6(6000.3.7f1)  
+* **`Render`:** URP  
+* **`Plataforma`:** PC, Web  
+* **`Design Patterns`:** Observer(desacoplagem), State Machines(IAs, movimentação), Factory(Criação dos ambientes.).  
+* **`Tempo de projeto`:** 3 Meses.  
+* **`Sistemas`:** Movimentação, Combate, IA inimigos, Diálogo,Inventário,Criação de Mapas, Criação de texturas, gerenciamento de cenas, save serializado, UI.
 
-2. # **Pacotes da Unity**
+# **Pacotes da Unity**
 
-* Cinemachine - Movimento das Cameras  
-* URP - Render das imagens  
-* UI Toolkit - UIs de editor e Jogo
+- **`Cinemachine`** - Movimento das Cameras  
+- **`URP`** - Render das imagens  
+- **`UI Toolkit`** - UIs de editor e Jogo
 
-3. # **Sistemas**
+# **Sistemas**
    1. ## **Movimentação**
    Movimentação 3D, onde o personagem é sempre visto em topDown, tem guardado uma direção e itera por essa direção a cada Fixed Update. tem um sensor para delimitar o pé, e em que tipo de piso está, o personagem poderá ter diferentes tipos de movimento dependendo dos terrenos, como voar, nadar e escavar.
    
@@ -46,6 +46,8 @@
 
    9. ## **Save/Load**
    Sistema responsável por parsear wrappers em arquivos Json, encriptá-los e guardá-los, bem como recuperar suas informações para devolver ao player quando necessário,usando sistemas diferentes para cada plataforma (persistent data path no PC e Local Save WebGL). 
+
+---
 
 ### **Asas GameDev**
 <a href="https://www.linkedin.com/in/thadeu-moscatelli-2559061b0/" target="_blank">

@@ -3,11 +3,11 @@
 
 # **One Page GDD**
 
-1. # **Resumo**
+ # **Resumo**
 
 Conrado's quest é um jogo de rpg e aventura ambientado em uma torre mágica e misteriosa, onde um jovem dragão, aprisionado em forma humana, explora ambientes em constante mudança, inimigos que prendem dragões ancestrais, para libertar seu povo das garras de um tirano terrível.
 
-2. # **Pitch**
+# **Pitch**
 
 Controle um jovem dragão, por uma torre mágica, aleatória onde você vai enfrentar inimigos poderosos, ganhar poderes e remover do poder o Grande Mago que aprisionou todos os dragões
 
@@ -15,7 +15,7 @@ A Torre do mago é um lugar perigoso e secreto, onde cada andar é dedicado a um
 
 Você é capaz de sobreviver sozinho à torre do mago, derrotar seus inimigos, desbloquear as joias dos dragões, e liberar sua terra desse tirano?
 
-3. #  **Visão Geral do Jogo**
+#  **Visão Geral do Jogo**
 
 * **`Gênero:`** Topdown Zelda-Like  
 * **`Plataforma:`** PC, Web  
@@ -24,7 +24,7 @@ Você é capaz de sobreviver sozinho à torre do mago, derrotar seus inimigos, d
 * **`Verbos:`** Atacar, Esquivar, Defender, Ripostar, Refletir, Interagir, Usar, Transformar, Criar, Compartilhar.
 * **`CoreLoop:`** Explorar => Combater => Derrotar Chefe => Ganhar nova transformação => novo Andar.
 
-4. # **Gameplay e Mecânicas (Core Loop)**
+# **Gameplay e Mecânicas (Core Loop)**
 
 A gameplay é bastante focada em dois fatores, a exploração e o combate, na exploração você terá 10 andares de uma torre mágica, cada andar tem uma temática elemental, e 10 salas procedurais, que são geradas por duas formas, uma retirada de um banco de salas feitas pelos designers, e por um algoritmo leve de criação procedural, a exceção da 5º e da 10º sala que são fixas, e os covis do sub chefe e do chefe final respectivamente, os andares podem conter várias salas secretas, algumas acessíveis apenas com algumas transformações, que recompensam o jogador mais explorador.
 
@@ -32,14 +32,15 @@ Já o combate é focado na simplicidade, com ataques físicos rápidos, e a poss
 
 O Fator replay provém da possibilidade de criar seus próprios andares, e ou até jogar andares de outros jogadores, que poderão ser criados por um editor simples feito no jogo mesmo, e salvos em texturas pequenas e leves.
 
-5. # **Inspirações**
-
+# **Inspirações**
 * **`Zelda Minish Cap`** - Look and feel, combate parcial  
 * **`Zelda Link’s Awakening`** - Dungeons, Editor de dungeons, segredos.
 * **`Castaway`** - escopo, exploração.
 * **`Death’s Door`** - Level Design, mundo.
-* **`Tunic`** - Level Design, mundo.
+* **`Tunic`** -  Level Design, mundo.
+
 ---
+
 ### **Asas GameDev**
 <a href="https://www.linkedin.com/in/thadeu-moscatelli-2559061b0/" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="24" height="24">

@@ -79,36 +79,31 @@ Cada andar da torre tem seus próprios ecossistemas,com monstros e salas, e é h
 # **Monstros:**
 
  1. ## **Papeis:**
- ### Tanque:
+### Tanque:
+### Suporte:
+### Atacante:
 
- ### Suporte:
-
- ### Atacante:
-
-1. ## **Comuns:**
-    ### 001 - Nome 
-  - **`Dificuldade`**:  
-  - **`Papel`**:
-  - **`Descrição`**:
-
-
-1. ## **SubChefes:**
+2. ## **Comuns:**
 ### 001 - Nome 
   - **`Dificuldade`**:  
   - **`Papel`**:
   - **`Descrição`**:
 
 
-1. ## **Chefes:**
+3. ## **SubChefes:**
 ### 001 - Nome 
   - **`Dificuldade`**:  
   - **`Papel`**:
   - **`Descrição`**:
 
 
+4. ## **Chefes:**
+### 001 - Nome 
+  - **`Dificuldade`**:  
+  - **`Papel`**:
+  - **`Descrição`**:
 
-
-
+---
 ### **Asas GameDev**
 <a href="https://www.linkedin.com/in/thadeu-moscatelli-2559061b0/" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="24" height="24">
