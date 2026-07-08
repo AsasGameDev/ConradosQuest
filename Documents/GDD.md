@@ -10,7 +10,14 @@ Você é um filhote de dragão que é a última esperança da sua raça para exp
 ## **Verbos:**
   Atacar, Esquivar, Defender, Ripostar, Refletir, Interagir, Usar, Transformar, Criar, Compartilhar.
 ## **Controle:**
+
+
 ## **Combate:**
+O jogador contará com um ataque simples de rápida repetição, não um combo por sí só, e um ataque forte, que vai servir para remover a defesa dos inimigos, porém vai tomar mais tempo do movimento. Cada transformação poderá alterar esses ataques, até adicionando ataques de longa distância, ou movimentação.
+
+A movimentação em combate, prevê um _dash_ para desviar dos ataques que estarão vindo, e também uma defesa, essa se feita no tempo certo, poderá ripostar ou refletir ataques simples.
+
+O combate tem de ter ataques muito bem telegrafados, de forma que fique sempre claro para o jogador qual a direção e extensão dos colisores de dano, a ideia é que o combate seja simples e divertido, ideal para o publico alvo.
 
 # **Andares:**
 
