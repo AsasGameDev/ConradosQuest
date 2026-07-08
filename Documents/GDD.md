@@ -10,15 +10,27 @@ Você é um filhote de dragão que é a última esperança da sua raça para exp
 ### [**Menino Dragão**](https://asasgamedev.github.io/ConradosQuest/Documents/Personagens/Personagem1):
 - **`Idade`**: 10 anos.
 - **`Personalidade`**: Gentíl
-- **`História`**: O último dragão livre desde que o Mago tirano, foi criado para poder libertar 
+- **`História`**: O último dragão livre desde que o Mago tirano, foi criado para poder libertar.
 
+### [**Mago**](https://asasgamedev.github.io/ConradosQuest/Documents/Personagens/Personagem2):
+- **`Idade`**: ~.
+- **`Personalidade`**: Comedido
+- **`História`**: Mago ganâncioso, busca poder sem limite, encontrou um feitiço para capturar os dragões, e usou para prender todos, deixando eles presos em sua dimensão pessoal, de onde ele pode absorver calmamente toda a energia de cada um, corrompendo, torturando cada um dos 9 anciões.   
+
+### [**Dragão de Pedra**](https://asasgamedev.github.io/ConradosQuest/Documents/Personagens/Personagem3):
+- **`Idade`**: 1000+.
+- **`Personalidade`**: Forte e Divertido
+- **`História`**: O Dragão que está preso no primeiro andar. ele tem o poder de mover grandes quantidades de terra e pedras, embora não seja um dragão alado, pode se mover rapidamente embaixo da terra. 
 
 # **Jogabilidade:**
 ## **Verbos:**
   Atacar, Esquivar, Defender, Ripostar, Refletir, Interagir, Usar, Transformar, Criar, Compartilhar.
 ## **Controles:**
 ### **Controle Xbox**:
-  <img src="https://raw.githubusercontent.com/AsasGameDev/ConradosQuest/3addb81e5f67e01eeba5598dba6da1b958edd027/Images/xbox.png" width="876" height="300">
+  <img
+    src="https://raw.githubusercontent.com/AsasGameDev/ConradosQuest/3addb81e5f67e01eeba5598dba6da1b958edd027/Images/xbox.png"
+    alt="Xbox Controller"
+    style="width:100%; max-height:300px; object-fit:contain;">
   
   _feito com_ [_Padcrafter_](https://www.padcrafter.com/index.php)
 

@@ -25,6 +25,7 @@ Movimentação 3D, onde o personagem é sempre visto em topDown, tem guardado um
 
 ## **Sistema de Entrada (Input)**
 Sistema que faz o meio de campo entre o sistema interno de Input da Unity, também lida com a exibição das imagens referentes a cada input em sí.
+
 ## **Combate**
 Combate com foco em movimentação, sem complexidade, o personagem poderá se mover com uma esquiva / rolamento, que irá puxar ele por alguns metros, poderá defender e atacar tanto de forma corpo-a-corpo quanto a distância, os danos serão sempre calculados de forma simples, a vida do inimigo menos a o valor da arma atual, todo ataque terá uma janela de ripostar, alguns marcados para não permitir, alguns ataques podem ser marcados como indefensáveis, todos os ataques tem de ter telemetria clara da área de dano.
    

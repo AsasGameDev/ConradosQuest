@@ -3,7 +3,7 @@
 
 # **One Page GDD**
 
- # **Resumo**
+# **Resumo**
 
 Conrado's quest é um jogo de rpg e aventura ambientado em uma torre mágica e misteriosa, onde um jovem dragão, aprisionado em forma humana, explora ambientes em constante mudança, inimigos que prendem dragões ancestrais, para libertar seu povo das garras de um tirano terrível.
 
