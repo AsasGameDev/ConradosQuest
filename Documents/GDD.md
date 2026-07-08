@@ -23,7 +23,7 @@ O combate tem de ter ataques muito bem telegrafados, de forma que fique sempre c
 
 Cada andar da torre tem seus próprios ecossistemas,com monstros e salas, e é habitado por um monstro carcereiro do dragão do andar, e pela própria forma corrompida da habilidade daquele dragão, ao libertar o andar tanto do carcereiro quanto do poder, o jogador ganha acesso a esse poder.
 
- ## 1º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/1andar)
+## 1º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/1andar)
  - **`Transformação`**: Monstro de Pedra
   - **`SubChefe`**: Minerador Maluco
   - **`Chefe`**: Alma de Pedra
@@ -35,7 +35,7 @@ Cada andar da torre tem seus próprios ecossistemas,com monstros e salas, e é h
   - **`Chefe`**:
   - **`Descrição`**:
 
- ## 3º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/3andar)
+## 3º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/3andar)
  - **`Transformação`**:
   - **`SubChefe`**:
   - **`Chefe`**:

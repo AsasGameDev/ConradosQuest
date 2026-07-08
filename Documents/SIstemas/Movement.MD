@@ -2,6 +2,23 @@
 [`TDD`](https://asasgamedev.github.io/ConradosQuest/Documents/TDD) | [`GDD`](https://asasgamedev.github.io/ConradosQuest/) | [`Complete GDD`](https://asasgamedev.github.io/ConradosQuest/Documents/GDD)
 
 
+# **Movement System**
+
+## **Ficha técnica:**
+- **`Arquiteturas`**: Observer, Factory.
+- **`Objetivos`**: Movimentar o personagem, com foco em velocidade e possíbilidade de modificadores. 
+- **`Verbos`**: Mover, Correr, Desviar.
+- **`Depende de`**: Input, Cinemachine.
+- **`Dependentes`**: Transformações, Ataques.
+
+## **Lista de Classes:**
+
+
+## **Fluxograma:**
+
+
+## **Documentação de Uso:**
+
 ---
 ### **Asas GameDev**
 <a href="https://www.linkedin.com/in/thadeu-moscatelli-2559061b0/" target="_blank">
