@@ -6,6 +6,13 @@
 
 Você é um filhote de dragão que é a última esperança da sua raça para expurgar um mago tirano que sequestrou todos os dragões anciões, para isso ele vai invadir a torre do mago, sua dimensão pessoal, enfrentar os desafios que os dez andares da torre apresentam, libertar os dragões ancestrais ganhar seus poderes, e enfrenta o grande mago.
 
+# **Personagens:**
+### [**Menino Dragão**](https://asasgamedev.github.io/ConradosQuest/Documents/Personagens/Personagem1):
+- **`Idade`**: 10 anos.
+- **`Personalidade`**: Gentíl
+- **`História`**: O último dragão livre desde que o Mago tirano, foi criado para poder libertar 
+
+
 # **Jogabilidade:**
 ## **Verbos:**
   Atacar, Esquivar, Defender, Ripostar, Refletir, Interagir, Usar, Transformar, Criar, Compartilhar.
