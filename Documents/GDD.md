@@ -16,8 +16,11 @@ Você é um filhote de dragão que é a última esperança da sua raça para exp
 # **Jogabilidade:**
 ## **Verbos:**
   Atacar, Esquivar, Defender, Ripostar, Refletir, Interagir, Usar, Transformar, Criar, Compartilhar.
-## **Controle:**
-
+## **Controles:**
+### **Controle Xbox**:
+  <img src="https://raw.githubusercontent.com/AsasGameDev/ConradosQuest/3addb81e5f67e01eeba5598dba6da1b958edd027/Images/xbox.png" width="876" height="300">
+  
+  _feito com_ [_Padcrafter_](https://www.padcrafter.com/index.php)
 
 ## **Combate:**
 O jogador contará com um ataque simples de rápida repetição, não um combo por sí só, e um ataque forte, que vai servir para remover a defesa dos inimigos, porém vai tomar mais tempo do movimento. Cada transformação poderá alterar esses ataques, até adicionando ataques de longa distância, ou movimentação.
