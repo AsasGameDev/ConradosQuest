@@ -59,9 +59,10 @@ O Fator replay provém da possibilidade de criar seus próprios andares, e ou at
 # **Sobre Nós**
 
 ## **Thadeu Moscatelli**
-<img
-  src="https://raw.githubusercontent.com/AsasGameDev/ConradosQuest/3addb81e5f67e01eeba5598dba6da1b958edd027/Images/ThadeuMoscatelli.png"
-  alt="Profile Thadeu Moscatelli" width = 128, height= 128 />
+<p align="center">
+<img src="https://raw.githubusercontent.com/AsasGameDev/ConradosQuest/master/Images/ThadeuMoscatelli.png" alt="Thadeu Moscatelli" width="128" height="128">
+</p>
+
 - **`Cargo`**: Solo Game Dev!, Programador, 3D Artist
 - **`Sobre`**: Pai do Conrado, afixionado por jogos de RPG e Aventura desde o super Nintendo, trabalha com jogos a mais de 8 anos, Professor nas horas vagas, e apaixonado pelo mundo do desenvolvimento de jogos, suas técnicas, arquiteturas e múltiplas formas de atingir o mesmo objetivo.
 
