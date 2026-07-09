@@ -33,10 +33,16 @@ Você é um filhote de dragão que é a última esperança da sua raça para exp
 - **`Personalidade`**: Comedido
 - **`História`**: Mago ganâncioso, busca poder sem limite, encontrou um feitiço para capturar os dragões, e usou para prender todos, deixando eles presos em sua dimensão pessoal, de onde ele pode absorver calmamente toda a energia de cada um, corrompendo, torturando cada um dos 9 anciões.   
 
-### [**Dragão de Pedra**](https://asasgamedev.github.io/ConradosQuest/Documents/Personagens/Personagem3):
+### [**Nome (Dragão de Pedra)**](https://asasgamedev.github.io/ConradosQuest/Documents/Personagens/Personagem3):
 - **`Idade`**: 1000+.
 - **`Personalidade`**: Forte e Divertido
 - **`História`**: O Dragão que está preso no primeiro andar. ele tem o poder de mover grandes quantidades de terra e pedras, embora não seja um dragão alado, pode se mover rapidamente embaixo da terra. 
+
+### [**Nome (Dragão de Água)**](https://asasgamedev.github.io/ConradosQuest/Documents/Personagens/Personagem3):
+- **`Idade`**: 1000+.
+- **`Personalidade`**: Confiante, e mordaz.
+- **`História`**: O Dragão que está preso no segundo andar. Tem a capacidade de se movimentar rápido tanto no céu quanto nas aguas, um corpo languido, capaz de causar danos rápidos e ferozes.
+
 
 # **Jogabilidade:**
 ## **Verbos:**
@@ -169,10 +175,15 @@ Monstros que são capazes de trazer novos inimigos para dentro do combate, seja 
 
 
 ## **Chefes:**
-### 001 - Nome 
-  - **`Dificuldade`**:  
-  - **`Papel`**:
-  - **`Descrição`**:
+### 001 - Alma do Dragão de Pedra 
+  - **`Dificuldade`**:  4
+  - **`Papel`**: Tanque
+  - **`Descrição`**: A corupção do dragão de pedra, um monstro corrompido que lembra a mesma estrutura do dragão, porém com uma aura vermelha e deformada, ele tem uma carapaça forte que tem que ser removida antes de conseguir realmente causar dano. 
+  
+### 001 - Alma do Dragão da Água 
+  - **`Dificuldade`**:  5
+  - **`Papel`**: Atacante
+  - **`Descrição`**: rápido e esguio o Monstro corrupção do dragão da água é feroz nos ataques, e dá pouca chance para ataques, aquele que dominar o combate provavelmente vai ser recompensado.
 ---
 
 ---
