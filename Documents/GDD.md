@@ -61,7 +61,7 @@ O combate tem de ter ataques muito bem telegrafados, de forma que fique sempre c
 
 Cada andar da torre tem seus próprios ecossistemas,com monstros e salas, e é habitado por um monstro carcereiro do dragão do andar, e pela própria forma corrompida da habilidade daquele dragão, ao libertar o andar tanto do carcereiro quanto do poder, o jogador ganha acesso a esse poder.
 
-## 1º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/1andar)
+## 1º [Andar da Pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/1andar)
  - **`Transformação`**: Dragão De pedra (tanque)
   - **`SubChefe`**: Minerador Maluco
   - **`Chefe`**: Alma de Pedra
@@ -73,50 +73,50 @@ Cada andar da torre tem seus próprios ecossistemas,com monstros e salas, e é h
   - **`Chefe`**:
   - **`Descrição`**: Segundo andar, inundado, em algumas partes parece apenas um rio, a movimentação aqui é toda feita quebrando partes das paredes, e fazendo o sistema inundar ou não partes do jogo. os inimigos aqui são em sua maioria de suporte.
 
-## 3º [Andar da Raio](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/3andar)
+## 3º [Andar do Raio](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/3andar)
  - **`Transformação`**: Dragão elétrico (eletrizar cabos)
   - **`SubChefe`**:
   - **`Chefe`**:
   - **`Descrição`**: Andar tecnológico, tudo parece uma grande fábrica, com pontos de energia para todos os lados.
 
-## 4º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/4andar)
+## 4º [Andar do Ar](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/4andar)
  - **`Transformação`**:
   - **`SubChefe`**:
   - **`Chefe`**:
   - **`Descrição`**:
 
-## 5º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/5andar)
+## 5º [Andar da Natureza](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/5andar)
  - **`Transformação`**:
   - **`SubChefe`**:
   - **`Chefe`**:
   - **`Descrição`**:
 
-## 6º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/6andar)
+## 6º [Andar do Fogo](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/6andar)
  - **`Transformação`**:
   - **`SubChefe`**:
   - **`Chefe`**:
   - **`Descrição`**:
 
-## 7º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/7andar)
+## 7º [Andar da Noite](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/7andar)
  - **`Transformação`**:
   - **`SubChefe`**:
   - **`Chefe`**:
   - **`Descrição`**:
 
-## 8º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/8andar)
+## 8º [Andar do Veneno](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/8andar)
  - **`Transformação`**:
   - **`SubChefe`**:
   - **`Chefe`**:
   - **`Descrição`**:
 
-## 9º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/9andar)
+## 9º [Andar do Sol](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/9andar)
  - **`Transformação`**:
   - **`SubChefe`**:
   - **`Chefe`**:
   - **`Descrição`**:
 
-## 10º [Andar da pedra](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/10andar)
- - **`Transformação`**:
+## 10º [Andar do Mago](https://asasgamedev.github.io/ConradosQuest/Documents/Andares/10andar)
+ - **`Transformação`**: nenhuma.
   - **`SubChefe`**:
   - **`Chefe`**:
   - **`Descrição`**:
@@ -137,17 +137,20 @@ Monstros que são capazes de trazer novos inimigos para dentro do combate, seja 
 
 ## **Comuns:**
 ### 001 - Pedrito 
-  - **`Dificuldade`**: 1  
+  - **`Dificuldade`**: 1
+  - **`Andares`**: 1º  
   - **`Papel`**:Atacante
   - **`Descrição`**:Uma pedra pequena que ganhou vida graças a alma de pedra, e aos poderes do subchefe, ele ataca segamente, mas não é difícil de se livrar dele, com golpes simples.
 
 ### 002 - Pedrada 
   - **`Dificuldade`**: 2  
+  - **`Andares`**: 1º
   - **`Papel`**:Tanque
   - **`Descrição`**: Um pequeno monstro de pedra, que é bastante durão, consegue resistir a mais ataques, porém é lento e bem fácil de desviar, tem que se tomar cuidado com a sua morte, que pode gerar uma pequena explosão.
 
 ### 003 - Pedralvo 
   - **`Dificuldade`**: 2  
+  - **`Andares`**: 1º
   - **`Papel`**:Atacante
   - **`Descrição`**: um pequeno monstro com a capacidade de tacar pequenas pedras, não é forte mas como é rápido é irritante, e pode causar algum dano quando junto de outros monstros do mesmo andar.
 

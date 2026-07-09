@@ -67,6 +67,10 @@ Também é responsável pelo instanciamento dos inimigos, itens, e salas secreta
 ## **Save/Load**
 Sistema responsável por parsear wrappers em arquivos Json, encriptá-los e guardá-los, bem como recuperar suas informações para devolver ao player quando necessário,usando sistemas diferentes para cada plataforma (persistent data path no PC e Local Save WebGL). 
 
+# **Ferramentas de Editor**
+## [**Debug In Game (Modo Deus)**]((https://asasgamedev.github.io/ConradosQuest/Documents/Sistemas/GodMode))
+Ferramenta de sistema usada em editor e in Game durante o as áreas de teste, é básicamente uma inteface para ver debugs mesmo em biuld, e com a capacidade de mandar comandos para que coisas possam ser feitas dentro do jogo. 
+
 ---
 
 ### **Asas GameDev**
