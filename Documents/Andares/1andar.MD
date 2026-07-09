@@ -1,17 +1,19 @@
 # **CONRADO'S QUEST**
-<!-- [`TDD`](https://asasgamedev.github.io/ConradosQuest/Documents/TDD) | [`GDD`](https://asasgamedev.github.io/ConradosQuest/) | [`Complete GDD`](https://asasgamedev.github.io/ConradosQuest/Documents/GDD) -->
-
 <p align="center">
   <a href="https://asasgamedev.github.io/ConradosQuest/Documents/TDD">
-    <img src="https://img.shields.io/badge/📘-TDD-2563EB?style=for-the-badge" alt="TDD">
+    <img src="https://img.shields.io/badge/TDD-2563EB?style=for-the-badge" alt="TDD">
   </a>
   &nbsp;
   <a href="https://asasgamedev.github.io/ConradosQuest/">
-    <img src="https://img.shields.io/badge/🎮-GDD-16A34A?style=for-the-badge" alt="GDD">
+    <img src="https://img.shields.io/badge/GDD-16A34A?style=for-the-badge" alt="GDD">
   </a>
   &nbsp;
   <a href="https://asasgamedev.github.io/ConradosQuest/Documents/GDD">
-    <img src="https://img.shields.io/badge/📚-Complete_GDD-7C3AED?style=for-the-badge" alt="Complete GDD">
+    <img src="https://img.shields.io/badge/Complete_GDD-7C3A?style=for-the-badge" alt="Complete GDD">
+  </a>
+   &nbsp;
+  <a href="https://asasgamedev.github.io/ConradosQuest/Documents/DevLog/DevLogIndex">
+    <img src="https://img.shields.io/badge/DevLog-16A3AA?style=for-the-badge" alt="Complete GDD">
   </a>
 </p>
 

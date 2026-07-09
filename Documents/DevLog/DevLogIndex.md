@@ -1,4 +1,3 @@
-# **CONRADO'S QUEST**
 <p align="center">
   <a href="https://asasgamedev.github.io/ConradosQuest/Documents/TDD">
     <img src="https://img.shields.io/badge/TDD-2563EB?style=for-the-badge" alt="TDD">
@@ -17,22 +16,14 @@
   </a>
 </p>
 
-# **Movement System**
+# **Dev Logs:**
 
-## **Ficha técnica:**
-- **`Arquiteturas`**: Observer, Factory.
-- **`Objetivos`**: Movimentar o personagem, com foco em velocidade e possíbilidade de modificadores. 
-- **`Verbos`**: Mover, Correr, Desviar.
-- **`Depende de`**: Input, Cinemachine.
-- **`Dependentes`**: Transformações, Ataques.
+Aqui estarão todos os updates do projeto as dificuldades e os sucessos, documentados de forma a tentar ensinar e aprender através do processo de feitura desse jogo.
 
-## **Lista de Classes:**
+# **Índice**
 
+ - [**`DevLog 01`**](https://asasgamedev.github.io/ConradosQuest/Documents/DevLog/DevLog01) - Como foi a ideia, e o projeto inicial do Conrado's Quest.
 
-## **Fluxograma:**
-
-
-## **Documentação de Uso:**
 
 ---
 ### **Asas GameDev**

@@ -1,4 +1,3 @@
-# **CONRADO'S QUEST**
 <p align="center">
   <a href="https://asasgamedev.github.io/ConradosQuest/Documents/TDD">
     <img src="https://img.shields.io/badge/TDD-2563EB?style=for-the-badge" alt="TDD">
@@ -17,22 +16,16 @@
   </a>
 </p>
 
-# **Movement System**
+# **DevLog 01 - O Inicio de tudo!** 
 
-## **Ficha técnica:**
-- **`Arquiteturas`**: Observer, Factory.
-- **`Objetivos`**: Movimentar o personagem, com foco em velocidade e possíbilidade de modificadores. 
-- **`Verbos`**: Mover, Correr, Desviar.
-- **`Depende de`**: Input, Cinemachine.
-- **`Dependentes`**: Transformações, Ataques.
+ - O ínicio do projeto, sua documentação, descobertas e alterações possíveis.
 
-## **Lista de Classes:**
+## **De onde veio a ideia:**
 
 
-## **Fluxograma:**
+## **Sobre a equipe:**
 
 
-## **Documentação de Uso:**
 
 ---
 ### **Asas GameDev**

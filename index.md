@@ -1,17 +1,19 @@
 # **CONRADO'S QUEST**
-<!-- [`TDD`](https://asasgamedev.github.io/ConradosQuest/Documents/TDD) | [`GDD`](https://asasgamedev.github.io/ConradosQuest/) | [`Complete GDD`](https://asasgamedev.github.io/ConradosQuest/Documents/GDD) -->
-
 <p align="center">
   <a href="https://asasgamedev.github.io/ConradosQuest/Documents/TDD">
-    <img src="https://img.shields.io/badge/📘-TDD-2563EB?style=for-the-badge" alt="TDD">
+    <img src="https://img.shields.io/badge/TDD-2563EB?style=for-the-badge" alt="TDD">
   </a>
   &nbsp;
   <a href="https://asasgamedev.github.io/ConradosQuest/">
-    <img src="https://img.shields.io/badge/🎮-GDD-16A34A?style=for-the-badge" alt="GDD">
+    <img src="https://img.shields.io/badge/GDD-16A34A?style=for-the-badge" alt="GDD">
   </a>
   &nbsp;
   <a href="https://asasgamedev.github.io/ConradosQuest/Documents/GDD">
-    <img src="https://img.shields.io/badge/📚-Complete_GDD-7C3AED?style=for-the-badge" alt="Complete GDD">
+    <img src="https://img.shields.io/badge/Complete_GDD-7C3A?style=for-the-badge" alt="Complete GDD">
+  </a>
+   &nbsp;
+  <a href="https://asasgamedev.github.io/ConradosQuest/Documents/DevLog/DevLogIndex">
+    <img src="https://img.shields.io/badge/DevLog-16A3AA?style=for-the-badge" alt="Complete GDD">
   </a>
 </p>
 
@@ -52,6 +54,16 @@ O Fator replay provém da possibilidade de criar seus próprios andares, e ou at
 * **`Castaway`** - escopo, exploração.
 * **`Death’s Door`** - Level Design, mundo.
 * **`Tunic`** -  Level Design, mundo.
+
+---
+# **Sobre Nós**
+
+## **Thadeu Moscatelli**
+<img
+  src="https://raw.githubusercontent.com/AsasGameDev/ConradosQuest/3addb81e5f67e01eeba5598dba6da1b958edd027/Images/ThadeuMoscatelli.png"
+  alt="Profile Thadeu Moscatelli" width = 128, height= 128 />
+- **`Cargo`**: Solo Game Dev!, Programador, 3D Artist
+- **`Sobre`**: Pai do Conrado, afixionado por jogos de RPG e Aventura desde o super Nintendo, trabalha com jogos a mais de 8 anos, Professor nas horas vagas, e apaixonado pelo mundo do desenvolvimento de jogos, suas técnicas, arquiteturas e múltiplas formas de atingir o mesmo objetivo.
 
 ---
 
