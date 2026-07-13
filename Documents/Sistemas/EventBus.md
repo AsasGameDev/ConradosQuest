@@ -58,6 +58,7 @@ EventBus<MyStruct>.CallDelayed(myStructInstance, 2f);
 
 ## Código completo:
 Aqui segue o código completo dessa classe, como no jogo final.
+
 <details>
 
 ### Event Bus

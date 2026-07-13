@@ -72,8 +72,8 @@ Sistema responsável por parsear wrappers em arquivos Json, encriptá-los e guar
 Ferramenta de sistema usada em editor e in Game durante o as áreas de teste, é básicamente uma inteface para ver debugs mesmo em biuld, e com a capacidade de mandar comandos para que coisas possam ser feitas dentro do jogo. 
 
 ## [**EventBus**]((https://asasgamedev.github.io/ConradosQuest/Documents/Sistemas/EventBus))
-Ferramenta 
 
+Sistema que tem como objetivo manter desacoplado os componentes de código, deixar as ferramentas mais segas entre sí o que facilita na hora de criar novas ferramentas, e na criação de APIs mais inteligentes, e gerênciaveis.
 
 ---
 

@@ -158,7 +158,8 @@ Monstros que são capazes de trazer novos inimigos para dentro do combate, seja 
   - **`Dificuldade`**: 2  
   - **`Andares`**: 1º
   - **`Papel`**:Atacante
-  - **`Descrição`**: um pequeno monstro com a capacidade de tacar pequenas pedras, não é forte mas como é rápido é irritante, e pode causar algum dano quando junto de outros monstros do mesmo andar.
+  - **`Descrição`**:
+   um pequeno monstro com a capacidade de tacar pequenas pedras, não é forte mas como é rápido é irritante, e pode causar algum dano quando junto de outros monstros do mesmo andar.
 
 
 
@@ -166,7 +167,8 @@ Monstros que são capazes de trazer novos inimigos para dentro do combate, seja 
 ### 001 - Minerador Maluco 
   - **`Dificuldade`**: 3 
   - **`Papel`**: Atacante
-  - **`Descrição`**: Um anão, que teve sua mente corrompida pelo mago, faz escavações por todo o andar da torre.
+  - **`Descrição`**: 
+  Um anão, que teve sua mente corrompida pelo mago, faz escavações por todo o andar da torre.
 ---
 ### 002 - Nome 
   - **`Dificuldade`**: 
@@ -183,7 +185,8 @@ Monstros que são capazes de trazer novos inimigos para dentro do combate, seja 
 ### 001 - Alma do Dragão da Água 
   - **`Dificuldade`**:  5
   - **`Papel`**: Atacante
-  - **`Descrição`**: rápido e esguio o Monstro corrupção do dragão da água é feroz nos ataques, e dá pouca chance para ataques, aquele que dominar o combate provavelmente vai ser recompensado.
+  - **`Descrição`**: 
+  rápido e esguio o Monstro corrupção do dragão da água é feroz nos ataques, e dá pouca chance para ataques, aquele que dominar o combate provavelmente vai ser recompensado.
 ---
 
 ---
