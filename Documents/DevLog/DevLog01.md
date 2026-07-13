@@ -21,10 +21,26 @@
  - O ínicio do projeto, sua documentação, descobertas e alterações possíveis.
 
 ## **De onde veio a ideia:**
+A Primeira ideia do Conrado's Quest vem do próprio Conrado que gosta muito de brincar de dragões, é extremamente criativo, e sempre se imagina se transformando em um, pedi para ele recentemente descrever qual seria o jogo dos sonhos dele, e acabei com o seguinte pitch: _"Um jogo de zelda que você joga com um dragão"_, como sempre fui apaixonado pelos dois temas, (acho até que por isso o Conrado gosta tanto!), eu me vi com a possibilidade de aumentar meu currículo, e melhorar meu portifólio e de quebra criar um jogo interessante para o meu pequeno, e que eu tivesse muita vontade de fazer, e de ver acontecer.
+
+## **GDD e Ideias**
+Recentemente eu tive a oportunidade de aprender um pouco mais sobre o github pages, e minha vontade de documentar um projeto de jogo já é antiga e vem de bastante tempo, como podemos ver [aqui](https://sites.google.com/view/asasgamedev/inicio), então a soma das duas coisas pra mim pareceu natural, criar documentos de design, aprender mais sobre o desenvolvimento da documentação de um jogo (GDD, TDD, etc...), junto com o desenvovimento de um jogo do zero, mas com a possibilidade de fazer parte de todos os processos. _brainstorms_, escrita criativa, tomada de decisão nos designs, entre outras tantas partes desse desenvolvimento que é divertidissimo, e ao mesmo tempo bastante desafiador. 
+
+## **Lista de Atualizações**
+ - Criação do repositório Unity.
+ - Desenvolvimento do GDD, TDD, DevLog e GDD de uma página.
+ - Adicionado Utilidades, e o EventBus.
+ - Escrito o 1º DevLog. 
 
 
-## **Sobre a equipe:**
+---
+## **Thadeu Moscatelli**
+<p align="center">
+<img src="https://raw.githubusercontent.com/AsasGameDev/ConradosQuest/master/Images/ThadeuMoscatelli.png" alt="Thadeu Moscatelli" width="128" height="128">
+</p>
 
+
+* `Sobre:` Pai do Conrado e idealizador desse projeto, escritor desse artigo, desenvolvedor de jogos a anos, e principalmente apaixonado por desenvolve-lo.
 
 
 ---
