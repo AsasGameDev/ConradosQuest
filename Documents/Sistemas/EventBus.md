@@ -59,10 +59,6 @@ EventBus<MyStruct>.CallDelayed(myStructInstance, 2f);
 ## Código completo:
 Aqui segue o código completo dessa classe, como no jogo final.
 
-<details markdown="1">
-
-<summary>Event Bus complete</summary>
-
 ```Csharp
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -120,7 +116,8 @@ namespace Asas.Utility
 }
 ```
 
-</details>
+
+---
 
 ### **Asas GameDev**
 <a href="https://www.linkedin.com/in/thadeu-moscatelli-2559061b0/" target="_blank">
