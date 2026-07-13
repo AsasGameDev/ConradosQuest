@@ -61,7 +61,7 @@ Aqui segue o código completo dessa classe, como no jogo final.
 
 <details>
 
-### Event Bus
+<summary>Event Bus complete</summary>
 
 ```Csharp
 using System.Collections.Generic;
